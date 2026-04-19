@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AndroidPractice10_1</string>
+    <string name="app_name">动画-星星</string>
+    <string name="bt_clean">清除</string>
 </resources>
